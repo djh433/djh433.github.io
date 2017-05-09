@@ -1,0 +1,54 @@
+body {
+font-size: 16px;
+font-style: normal;
+font-family: 'helvetica', sans-serif;
+margin-left: 5px;
+margin-right: 5px;
+margin-top: 25px;
+margin-bottom: 25px;
+background-color: ivory;
+}
+
+h2 {
+line-height: 50%;
+text-indent: 250px;
+}
+
+ul {
+list-style-position: inside;
+}
+
+li {
+text-indent: 10px;
+}
+
+#job1, #job2, #job3, #job4, #job5 {
+font-style: italic;
+font-weight: bolder;
+font-size: 17px;
+}
+
+#position {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+p {
+text-indent: 70px;
+}
+
+hr {
+display: block;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+margin-left: 30px;
+margin-right: 70px;
+border-style: inset;
+border-width: 1px;
+}            
+    
+footer {
+padding-top: 10px;
+font-size: 15px;
+text-align: center;
+}
