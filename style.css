@@ -19,7 +19,7 @@ list-style-position: inside;
 }
 
 li {
-text-indent: 10px;
+text-indent: -1em;
 }
 
 #job1, #job2, #job3, #job4, #job5 {
